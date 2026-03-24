@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+
+# Build files
+**/target/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
